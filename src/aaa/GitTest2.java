@@ -6,6 +6,7 @@ public class GitTest2 {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("gitTest");
 		System.out.println("Hello!World");
+		System.out.println("変更");
 	}
 
 }
